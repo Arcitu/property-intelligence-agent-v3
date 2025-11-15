@@ -1,0 +1,27 @@
+{
+  "Palo Alto": {
+    "feature_service_url": "https://services6.arcgis.com/evmyRZRrsopdeog7/arcgis/rest/services/AssessorsParcels/FeatureServer/0",
+    "out_fields": "*",
+    "notes": "City of Palo Alto Assessors Parcels (services6.arcgis.com)"
+  },
+  "San Mateo": {
+    "feature_service_url": "https://data-smcmaps.opendata.arcgis.com/datasets/active-parcels/geoservice",
+    "out_fields": "*",
+    "notes": "San Mateo County Active Parcels (ArcGIS Open Data geoservice) - verify"
+  },
+  "Santa Clara": {
+    "feature_service_url": "https://data.sccgov.org/arcgis/rest/services/Parcels/FeatureServer/0",
+    "out_fields": "*",
+    "notes": "Santa Clara County Parcels (ArcGIS) - verify"
+  },
+  "Alameda": {
+    "feature_service_url": "https://services.arcgis.com/your_alameda_endpoint/arcgis/rest/services/Parcels/FeatureServer/0",
+    "out_fields": "*",
+    "notes": "Placeholder - replace with Alameda County service URL"
+  },
+  "Orange": {
+    "feature_service_url": "https://services.arcgis.com/your_orange_endpoint/arcgis/rest/services/Parcels/FeatureServer/0",
+    "out_fields": "*",
+    "notes": "Placeholder - replace with Orange County service URL"
+  }
+}

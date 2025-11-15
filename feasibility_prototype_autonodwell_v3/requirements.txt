@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+PyPDF2
+openai
+pandas
+scikit-learn
+joblib
+reportlab
